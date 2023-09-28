@@ -15,7 +15,7 @@ def perform_sentiment_analysis(text):
         sentiment = "Negative"
     else:
         sentiment = "Neutral"
-    
+    print(type(sentiment))
     return sentiment
 
 if __name__ == "__main__":
