@@ -9,6 +9,6 @@
 ## Todo(😇):
 -chatting based on user behavior for messages which require immediate assistance
 <br/>
--add important work & work in Google Calendar
+-add important time & work in Google Calendar
 <br/>
 -Integrate Gmail as well in a new VM
